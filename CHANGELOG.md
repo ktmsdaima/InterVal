@@ -3,6 +3,13 @@
 - Removed unknowns in inspection form (Bolor)
 - Comparables edit title uses reference number (Bolor)
 - Fixed style of condition rating edit dialog (Bolor)
+- B2	Residential facilities - When checking unknown, it shows “No facilities” while it should show “Unknown” (Daima)
+- B3	Rooms - Unknown shows the output “-1” (Daima)
+- B4	Bedrooms - Unknown shows the output “-1” (Daima)
+- B5	Bathrooms - Unknown shows the output “-1” (Daima)
+
+- B9	External Area - When checking unknown, it shows “No external areas” while it should show “Unknown” (Daima)
+
 
 <a name="1.1.23"></a>
 # [1.1.23](https://demo.interval-soft.com/) (2020-12-03)
